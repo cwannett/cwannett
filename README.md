@@ -13,7 +13,7 @@ I'm an eager cybersecurity professional seeking exciting GRC analyst roles to fl
 
 # 🔭 I’m Currently Working On
 
-Fueling my cybersecurity passion daily! I'm taking on a LinkedIn challenge, diving into a new cybersecurity topic every day, and documenting my learnings by nightfall. Connect with me on LinkedIn - let's chat security!
+Fueling my cybersecurity passion daily! I am taking on a LinkedIn challenge, diving into a new cybersecurity topic every day, and documenting my learnings by nightfall. Connect with me on LinkedIn - let's chat security!
 
 # 📚 About Me
 
