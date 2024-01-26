@@ -9,7 +9,7 @@
 
 # 🤖 Open to Work
 
-I'm an eager cybersecurity professional seeking exciting GRC analyst roles to flex my expertise. If you have openings, drop me a line!
+I'm an eager IT security professional seeking exciting analyst role to flex my expertise. If you have openings, drop me a line!
 
 # 🔭 I’m Currently Working On
 
@@ -34,5 +34,5 @@ Dynamic and seasoned cybersecurity professional with a passion for ethical hacki
 
 # 🚀 Goals
 
-My goal is to leverage my cybersecurity expertise, financial background, and passion for ethical hacking to excel in a GRC analyst role. I aim to contribute significantly to the development and implementation of robust GRC strategies, ensuring that organizations not only comply with regulations but also fortify their defenses against evolving cyber threats.
+My goal is to leverage my cybersecurity expertise, financial background, and passion for ethical hacking to excel in a analyst role. I aim to contribute significantly to the development and implementation of robust strategies, ensuring that organizations not only comply with regulations but also fortify their defenses against evolving cyber threats.
 
