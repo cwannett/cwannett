@@ -22,8 +22,14 @@ Emerging Cybersecurity Interests: Developing understanding of cybersecurity thro
 
 ** 🎓 Education and Certifications **
 
-**Security+ Certified**
-**Google Cybersecurity Certification**
+** Security+ Certified **
+
+
+
+** Google Cybersecurity Certification **
+
+
+
 **Google IT Support Specialist**
 
 
