@@ -1,4 +1,4 @@
-**🛠️ Skills and Expertise
+**🛠️ Skills and Expertise**
 
 IT Systems Support: Proficient in managing and troubleshooting Windows, macOS, Linux, and Chrome OS systems. Experienced in software installation, system configuration, imaging, hardware setup, and technical support across various platforms.
 
