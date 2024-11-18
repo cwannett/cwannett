@@ -1,37 +1,40 @@
-**🛠️ Skills and Expertise**
+**🛠️ Skills and Expertise
 
-IT Systems Support: Proficient in managing and troubleshooting Windows, macOS, Linux, and Chrome OS systems. Experienced in software installation, system configuration, imaging, hardware setup, and technical support across various platforms.
+IT Systems Support: Skilled in managing and troubleshooting across diverse platforms, including Windows, macOS, Linux, and Chrome OS. Experienced in system configuration, software installation, hardware setup, and technical support. Adept at using imaging tools to streamline deployments and ensure optimal system performance.
 
-Networking and Security: Solid understanding of networking concepts, including LAN, WAN, Wi-Fi, DHCP, VPN, and DNS. Experienced in security operations, SIEM, endpoint detection, incident response, and security monitoring, backed by hands-on experience with tools like Wireshark, tcpdump, and Suricata.
+Networking and Security: Strong knowledge of networking protocols and security best practices, with hands-on experience in LAN, WAN, Wi-Fi, DHCP, VPN, and DNS. Expertise in security monitoring, incident response, and threat detection using tools like Wireshark, tcpdump, and Suricata. Proven ability to implement and maintain robust security measures in IT environments.
 
-Cloud and Software Tools: Experienced in using cloud platforms like Azure and AWS, with extensive knowledge of Office 365, Active Directory, Cisco AnyConnect, Salesforce, and Bullhorn. Proficient in ticketing systems such as Freshservice, Jira, and ServiceNow.
+Cloud and Software Tools: Proficient in cloud platforms such as Azure and AWS, as well as enterprise tools like Office 365, Active Directory, and Cisco AnyConnect. Extensive experience with CRM and support systems, including Salesforce and Bullhorn. Skilled in managing ticketing systems like Freshdesk, Jira, and ServiceNow to streamline support operations and improve response times.
 
-Automation and Programming: Passionate about leveraging AI and automation to streamline IT operations. Skilled in Python and SQL for scripting, automation, and database management. Developed automation solutions through ticketing systems and API integrations, improving support resolution efficiency.
+Automation and Scripting: Dedicated to leveraging automation to enhance IT efficiency. Skilled in scripting with Python and SQL for process automation, data management, and system integrations. Developed automated workflows using Zapier, PowerShell, and API integrations to reduce manual effort and increase productivity.
 
-**🤖 Professional Focus**
+**🤖 Professional Focus
 
-Experienced IT professional with a broad technical foundation, actively seeking opportunities to apply expertise in system support, application support, and security operations. Committed to continuous improvement and adapting to new challenges in dynamic environments.
+Versatile IT professional with a robust technical background, seeking opportunities to apply expertise in systems analysis, application support, and IT infrastructure. Committed to driving efficiency, enhancing security, and leading IT projects in dynamic, fast-paced environments.
 
-**📚 Personal Overview**
+**📚 Personal Overview
 
-Versatile IT practitioner with over three years of experience in technical support and operations, complemented by a decade in customer service. My career is driven by a passion for technology, with a strong focus on automation, cybersecurity, and continuous learning in IT and security principles.
+Technical specialist with over three years of experience in IT support and system administration, complemented by a decade in customer service. Passionate about automation, cybersecurity, and continuous learning. Focused on optimizing IT operations through innovative solutions and best practices.
 
-**🌟 Experience Overview**
+**🌟 Experience Overview
 
-Application Support Analyst (Triage Medical Staffing): Managed and resolved high-volume support tickets, provided cross-functional support, and led automation initiatives to enhance business efficiency and minimize downtime. Collaborated with developers, operations, and leadership to implement a new CRM system seamlessly.
+Application Support Analyst (Triage Medical): Oversaw high-volume ticket management using Freshdesk and Jira, leading automation initiatives to streamline support processes. Collaborated with cross-functional teams to implement new CRM systems, ensuring a seamless transition and minimizing downtime.
 
-Technical Support and Operations Specialist (Charles Schwab and Co. / TD-Ameritrade): Provided exceptional client support, facilitated training sessions, and developed best practices for optimizing job procedures. Managed high call volumes and complex problem resolution, ensuring smooth operations across cross-functional teams.
+Technical Support and Operations Specialist (Charles Schwab and Co. / TD-Ameritrade): Delivered outstanding technical support across multiple communication channels, trained teams on best practices, and developed processes to optimize operations. Managed complex technical issues while ensuring a high level of customer satisfaction.
 
-Security Research and Analysis (Research Project): Analyzed network traffic and identified vulnerabilities using Wireshark and Linux command-line tools. Configured Suricata for intrusion detection, developed Python scripts for automating cybersecurity tasks, and employed Splunk for security information and event management.
+Security Research and Analysis (Research Project): Conducted network analysis and vulnerability assessments using Wireshark and Linux tools. Configured Suricata for intrusion detection, automated cybersecurity tasks with Python scripts, and utilized Splunk for SIEM, enhancing threat detection and response capabilities.
 
-**🎓 Education and Certifications**
+**🎓 Education and Certifications
 
 B.S. Cybersecurity & Information Assurance (Expected Completion: 2025) - Western Governors University
-CompTIA Security+ Certified
+CompTIA A+
+CompTIA Security+
 Google Cybersecurity Certification
 Google IT Support Specialist
+Microsoft Certified: Power Platform App Maker Associate (In Progress)
+ITIL Foundation Certification
 APISEC API Security Fundamentals
 
-**🚀 Career Objectives**
+**🚀 Career Objectives
 
-Aim to continuously expand my IT skill set while integrating cybersecurity and automation to create innovative, secure, and efficient IT solutions. Open to opportunities that allow for the application and growth of my technical expertise across IT domains.
+Driven to merge IT operations, cybersecurity, and automation expertise to deliver secure, scalable, and efficient technology solutions. Eager to take on roles that foster technical growth, project leadership, and innovative IT implementations across diverse environments.
