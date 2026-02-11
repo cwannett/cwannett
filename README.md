@@ -34,13 +34,13 @@ Delivered structured application and system support through ticketing platforms 
 Technical Support and Operations Specialist (Charles Schwab & Co. / TD Ameritrade):
 Provided high-volume technical and operational support within a regulated financial environment, maintaining compliance standards while resolving complex platform and account-related issues.
 
-## **🎓 Education and Certifications **
+## **🎓 Education and Certifications**
 
 B.S. Cybersecurity & Information Assurance (Expected Completion: 06/2027) – Western Governors University
 CompTIA Security+
 Google Cybersecurity Professional Certificate
 Google IT Support Specialist
 
-**🚀 Career Direction**
+## **🚀 Career Direction**
 
 Focused on advancing within IT Operations and Systems roles while continuing to build depth in cybersecurity and automation. Interested in scalable infrastructure, endpoint management strategy, and security-conscious IT environments.
