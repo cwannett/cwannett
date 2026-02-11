@@ -1,4 +1,4 @@
-** 🛠️ Skills and Expertise **
+**🛠️ Skills and Expertise**
 
 IT Operations & Endpoint Management:
 Experienced in managing and supporting Windows and macOS environments across on-site and remote workforces. Skilled in device imaging, deployment, lifecycle management, hardware troubleshooting, and executive-level end-user support. Own full endpoint lifecycle from provisioning through decommissioning while ensuring reliable performance and minimal downtime.
